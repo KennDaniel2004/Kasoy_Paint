@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374531657061",
+    "project_id": "painting-shop-9931e",
+    "storage_bucket": "painting-shop-9931e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374531657061:android:ddb4f4fd2bbe2c47fc258c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LAsgp6BZHhIq818ZO7Dobl8i7LdaHzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374531657061:android:45382e767833e7f3fc258c",
+        "android_client_info": {
+          "package_name": "com.kasoy.kasoy_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LAsgp6BZHhIq818ZO7Dobl8i7LdaHzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
